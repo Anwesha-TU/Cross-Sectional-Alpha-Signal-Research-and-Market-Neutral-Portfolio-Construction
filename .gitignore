@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+conda_env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.csv
+*.parquet
+*.feather
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
